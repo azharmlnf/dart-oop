@@ -10,8 +10,8 @@ class Mobil {
 
 void main() {
   Mobil mobilSaya = Mobil();
-  mobilSaya.merk = 'Toyota';
-  mobilSaya.model = 'Avanza';
+  mobilSaya.merk = 'mitsubishi';
+  mobilSaya.model = 'pajero';
   mobilSaya.tahun = 2010;
 
   print(mobilSaya.merk);
